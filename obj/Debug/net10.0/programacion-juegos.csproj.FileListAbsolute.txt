@@ -1,0 +1,15 @@
+/workspaces/programacion-juegos/bin/Debug/net10.0/programacion-juegos
+/workspaces/programacion-juegos/bin/Debug/net10.0/programacion-juegos.deps.json
+/workspaces/programacion-juegos/bin/Debug/net10.0/programacion-juegos.runtimeconfig.json
+/workspaces/programacion-juegos/bin/Debug/net10.0/programacion-juegos.dll
+/workspaces/programacion-juegos/bin/Debug/net10.0/programacion-juegos.pdb
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.AssemblyInfoInputs.cache
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.AssemblyInfo.cs
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.csproj.CoreCompileInputs.cache
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.sourcelink.json
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.dll
+/workspaces/programacion-juegos/obj/Debug/net10.0/refint/programacion-juegos.dll
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.pdb
+/workspaces/programacion-juegos/obj/Debug/net10.0/programacion-juegos.genruntimeconfig.cache
+/workspaces/programacion-juegos/obj/Debug/net10.0/ref/programacion-juegos.dll
